@@ -1,4 +1,4 @@
-import reducer from "./ ";
+import reducer from "./reducer.js";
 
 
 describe("Accordion reducer", () => {
